@@ -1,0 +1,9 @@
+{
+	"ImportPath": "github.com/randomtask1155/metrics-forwarder-sample",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Packages": [
+		"."
+	],
+	"Deps": []
+}
